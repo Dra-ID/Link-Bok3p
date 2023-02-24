@@ -12,4 +12,6 @@ git clone https://github.com/Dra-ID/Link-Haram
 
 cd Link-Haram
 
-python xnxx.py
+python xnxx_.py
+
+# kasih 🌟🌟🌟🌟🌟star nya bang🌟🌟🌟🌟🌟
