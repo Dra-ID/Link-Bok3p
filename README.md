@@ -8,7 +8,7 @@ pkg install python
 
 rm -rf Link-Haram
 
-git clone https://github.com/Dra-ID/Link-Haram
+git clone https://github.com/Dra-ID/Link-Bok3p
 
 cd Link-Haram
 
