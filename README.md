@@ -1,7 +1,7 @@
 # Link-Haram
 Kumpulan link porono
 
-#packages
+# packages
 pkg update && pkg upgrade
 
 pkg install python 
