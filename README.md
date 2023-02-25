@@ -15,7 +15,7 @@ cd Link-Bok3p
 git pull
 
 Untuk key/password nya ada di cek.txt kalian
-Ketik aja nano cek.txt terus tuh kalian salin 
+Ketik aja nano cek.txt terus tuh kalian perkecil layar termux kalian terus salin 
 Aja key/password nya selesai 
 
 python xnxx_.py
