@@ -6,11 +6,11 @@ pkg update && pkg upgrade
 
 pkg install python 
 
-rm -rf Link-Haram
+rm -rf Link-Bok3p 
 
 git clone https://github.com/Dra-ID/Link-Bok3p
 
-cd Link-Haram
+cd Link-Bok3p 
 
 python xnxx_.py
 
