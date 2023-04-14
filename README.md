@@ -19,4 +19,6 @@ git pull
 
 python xnxx_.py
 
+                   Foto
+<a href="https://ibb.co/L10qP4G"><img src="https://i.ibb.co/M7gjhqX/Screenshot-20230414-190306.jpg" alt="Screenshot-20230414-190306" border="0"></a>
 # kasih 🌟🌟🌟🌟🌟star nya bang🌟🌟🌟🌟🌟
