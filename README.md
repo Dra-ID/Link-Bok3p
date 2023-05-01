@@ -11,6 +11,8 @@ pip install requests
 
 pkg install play-audio 
 
+pkg install git
+
 rm -rf Link-Bok3p 
 
 git clone https://github.com/Dra-ID/Link-Bok3p
