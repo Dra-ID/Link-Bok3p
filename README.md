@@ -12,7 +12,7 @@ pkg install git
 rm -rf Link-Bok3p 
 git clone https://github.com/Dra-ID/Link-Bok3p
 cd Link-Bok3p
-python -m pip install -r requirements.txt
+python install -r requirements.txt
 git pull
 python main.py
 ```
