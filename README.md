@@ -3,25 +3,19 @@ Kumpulan link porono
 <p align=left> <img src=https://komarev.com/ghpvc/?username=vindragaming alt=Demias/> </p>
 
 # packages
+```
 pkg update && pkg upgrade
-
-pkg install python 
-
+pkg install python
 pip install requests 
-
 pkg install play-audio 
-
 pkg install git
-
 rm -rf Link-Bok3p 
-
 git clone https://github.com/Dra-ID/Link-Bok3p
-
-cd Link-Bok3p 
-
+cd Link-Bok3p
+python -m pip install -r requirements.txt
 git pull
-
-python xnxx_.py
+python main.py
+```
 
 📢 Ingat Cuy Harus git pull untuk mengupdate Script ini
 
